@@ -1,0 +1,10 @@
+#cointainer{
+    display: inline-block;
+    align-items: center;
+    
+    
+}
+#main{
+    display: flex;
+    justify-content: center;
+}
